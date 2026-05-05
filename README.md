@@ -65,7 +65,7 @@ Enter student details and marks
 📊 Sample Output:
 Name: AmitTotal Marks: 340Percentage: 42.5Result: PASS
 
-🚀 Future Improvements:
+
 
 
 
