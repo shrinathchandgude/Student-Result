@@ -68,17 +68,4 @@ Name: AmitTotal Marks: 340Percentage: 42.5Result: PASS
 🚀 Future Improvements:
 
 
-Add CSV file storage
 
-
-Add GUI using Tkinter
-
-
-Create dashboard using Power BI / Python
-
-
-Add graphs for performance analysis
-
-
-
-जर तुला हवं असेल तर मी तुला GitHub upload ready README + project folder structure + CSV version code पण बनवून देऊ शकतो 👍
